@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashdeored
 - 👀 I’m interested in programming mostly Pytjon
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently pursuing Computer Engineering
 - 💞️ I’m looking to collaborate on AWS
 - 📫 How to reach me:
   +91 9665544652
