@@ -152,13 +152,6 @@ VS Code                  58 mins             ███████████�
 💻 Operating System: 
 Mac                      58 mins             █████████████████████████   100.00 % 
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="/>💬 Programming Languages: 
-Terraform                34 mins             ███████████████░░░░░░░░░░   58.89 % 
-YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Bash                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-
 🔥 Editors: 
 VS Code                  58 mins             █████████████████████████   100.00 % 
 
@@ -174,8 +167,8 @@ Mac                      58 mins             ███████████�
   </div></div>
 <p dir="auto"><strong>I Mostly Code in JavaScript</strong></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Go                       17 repos            █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-HCL                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+AWS                       17 repos            █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Azure                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
