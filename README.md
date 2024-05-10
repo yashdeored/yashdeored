@@ -2,9 +2,6 @@
 - 👀 I’m interested in programming mostly in Python cause its just as it was 
 - 🌱 I’m currently pursuing Diploma in Computer Engineering (I am a student)
 - 💞️ I’m looking to collaborate on AWS projects.
--
-
-    </div>
 <ul dir="auto">
 <li>👋 Hi, I’m <strong>Yash Deore</strong> from India</li>
 <li>🌱 I’m currently doing <strong>DevOps</strong> and <strong>Cloud Computing</strong></li>
