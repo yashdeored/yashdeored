@@ -1,18 +1,18 @@
-- 👋 Hi, I’m yash deore from India
+- 👋 Hi, I’m Yash Deore from India
 - 👀 I’m interested in programming mostly in Python cause its just as it was 
 - 🌱 I’m currently pursuing Diploma in Computer Engineering (I am a student)
 - 💞️ I’m looking to collaborate on AWS projects.
 -
 
     </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">Hi there, I'm Aditya! 👋</h1><a id="user-content-hi-there-im-aditya-" class="anchor" aria-label="Permalink: Hi there, I'm Aditya! 👋" href="#hi-there-im-aditya-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <ul dir="auto">
-<li>🌱 I’m currently doing <strong>DevOps</strong> and <strong>SRE</strong></li>
-<li>👨‍💻 All of my projects are available at <strong><a href="https://github.com/Adityacprtm">here</a></strong> or <strong><a href="https://adityacprtm.dev" rel="nofollow">adityacprtm.dev</a></strong></li>
-<li>📝 I regulary write articles on <strong><a href="https://adityacprtm.dev/blog" rel="nofollow">my blog</a></strong></li>
-<li>📫 How to reach me <strong><a href="mailto:aditya@adityacprtm.dev">aditya@adityacprtm.dev</a></strong></li>
-<li>👻 <strong>npx</strong> adityacprtm</li>
-<li>⚡ Fun fact <strong>pevita lovers</strong> 💘</li>
+<li>👋 Hi, I’m <strong>Yash Deore</strong> from India</li>
+<li>🌱 I’m currently doing <strong>DevOps</strong> and <strong>Cloud Computing</strong></li>
+<li>👨‍💻 All of my projects are available at <strong><a href="https://github.com/yashdeored">here</a></strong> or <strong><a href="https://yashdeore.xyz" rel="nofollow">yashdeore.xyz</a></strong></li>
+<li>📝 I regulary write articles on <strong><a href="https://yashdeore.xyz/blog" rel="nofollow">my blog</a></strong></li>
+<li>📫 How to reach me <strong><a href="mailto:yashdineshdeore@gmail.com">yashdineshdeore@gmail.com</a></strong></li>
+<li>👻 <strong>npx</strong> BEING_LEGEN9/li>
+<li>⚡ Fun fact <strong>I don't have patience so I complete my work ASAP!!</strong> 💘</li>
 </ul>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">😎 Connect with me</h2><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 😎 Connect with me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><a href="https://adityacprtm.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/2c0699a2d4d6a65a63d858cfdf77eaa3335ca532882a453c7fa4be20adc0f055/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f6c6162656c3d416469747961637072746d2e646576267374796c653d666f722d7468652d62616467652675726c3d6874747073253341253246253246616469747961637072746d2e646576" alt="Website" data-canonical-src="https://img.shields.io/website?label=Adityacprtm.dev&amp;style=for-the-badge&amp;url=https%3A%2F%2Fadityacprtm.dev" style="max-width: 100%;"></a>
