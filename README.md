@@ -2,19 +2,7 @@
 - 👀 I’m interested in programming mostly in Python cause its just as it was 
 - 🌱 I’m currently pursuing Diploma in Computer Engineering (I am a student)
 - 💞️ I’m looking to collaborate on AWS projects.
-- 📫 How to reach me:
-  <a href="mailto:yashdineshdeore@gmail.com">Email Me</a>
-  <button id="Linkdein" href="https://www.linkedin.com/in/yashdeored/"><img src="![Linkedin-logo-png](https://github.com/yashdeored/yashdeored/assets/152061059/5850c52b-9ae8-4dbc-a704-cbfe8a14f3da)" width="200" height:="100"></button>
-  <a href="https://www.linkedin.com/in/yashdeored/">
-<img border="0" alt="LinkedIn" src="Linkedin-logo-png.png" width="60" height="30" border="bold">
-</a><a href="https://www.linkedin.com/in/yashdeored/">
-<img border="0" alt="LinkedIn" src="Linkedin-logo-png.png" width="60" height="30" border="bold">
-</a>
-<div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="/Adityacprtm/Adityacprtm" class="no-underline Link--primary">Adityacprtm</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-      </div>
+-
 
     </div>
     <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">Hi there, I'm Aditya! 👋</h1><a id="user-content-hi-there-im-aditya-" class="anchor" aria-label="Permalink: Hi there, I'm Aditya! 👋" href="#hi-there-im-aditya-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
