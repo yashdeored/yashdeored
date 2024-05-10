@@ -75,9 +75,8 @@
 </tr>
 </tbody>
 </table>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">✨ Card</h2><a id="user-content--card" class="anchor" aria-label="Permalink: ✨ Card" href="#-card"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
 <details>
-  <summary> ⚡ Expand me</summary>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c6cdc6eebc7b049f1c20ae6ac3321d1c611431c0d615cadc272bfa7e9491893/68747470733a2f2f692e696d6775722e636f6d2f534336527438462e6a7067"><img src="https://camo.githubusercontent.com/4c6cdc6eebc7b049f1c20ae6ac3321d1c611431c0d615cadc272bfa7e9491893/68747470733a2f2f692e696d6775722e636f6d2f534336527438462e6a7067" alt="Imgur" data-canonical-src="https://i.imgur.com/SC6Rt8F.jpg" style="max-width: 100%;"></a></p>
 </details>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🚀 Github Stats</h2><a id="user-content--github-stats" class="anchor" aria-label="Permalink: 🚀 Github Stats" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -91,10 +90,10 @@
 <p dir="auto"><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
 <p dir="auto">📦 533.9 kB Used in GitHub's Storage</p>
-<p dir="auto">🏆 532 Contributions in the Year 2024</p>
-<p dir="auto">💼 Opted to Hire</p>
-<p dir="auto">📜 63 Public Repositories</p>
-<p dir="auto">🔑 19 Private Repositories</p>
+<p dir="auto">🏆 20 Contributions in the Year 2024</p>
+<p dir="auto">💼 Opted to Work</p>
+<p dir="auto">📜 7 Public Repositories</p>
+<p dir="auto">🔑 2 Private Repositories</p>
 </blockquote>
 <p dir="auto"><strong>I'm an Early 🐤</strong></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>🌞 Morning                19536 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
@@ -140,11 +139,11 @@ Sunday                   3963 commits        █░░░░░░░░░░�
   </div></div>
 <p dir="auto">📊 <strong>This Week I Spent My Time On</strong></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>💬 Programming Languages: 
-Terraform                34 mins             ███████████████░░░░░░░░░░   58.89 % 
-YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Bash                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+AWS                34 mins             ███████████████░░░░░░░░░░   58.89 % 
+Terraform          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+CDK                6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Python             4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Markdown           3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 🔥 Editors: 
 VS Code                  58 mins             █████████████████████████   100.00 % 
@@ -165,12 +164,11 @@ Mac                      58 mins             ███████████�
 </svg>
     </clipboard-copy>
   </div></div>
-<p dir="auto"><strong>I Mostly Code in JavaScript</strong></p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-AWS                       17 repos            █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Azure                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+<p dir="auto"><strong>I Mostly Code in Python</strong></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   10.57 % 
+AWS                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Dockerfile               1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
 Go                       17 repos            █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
