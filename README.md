@@ -5,20 +5,20 @@
 <ul dir="auto">
 <li>🌱 I’m currently doing <strong>DevOps</strong> and <strong>Cloud Computing</strong></li>
 <li>👨‍💻 All of my projects are available at <strong><a href="https://github.com/yashdeored">here</a></strong> or <strong><a href="https://yashdeore.xyz" rel="nofollow">yashdeore.xyz</a></strong></li>
-<li>📝 I regulary write articles on <strong><a href="https://yashdeore.xyz/blog" rel="nofollow">my blog</a></strong></li>
+<!-- <li>📝 I regulary write articles on <strong><a href="https://yashdeore.xyz/blog" rel="nofollow">my blog</a></strong></li> -->
 <li>📫 How to reach me <strong><a href="mailto:yashdineshdeore@gmail.com">yashdineshdeore@gmail.com</a></strong></li>
 <li>👻 <strong>npx</strong> BEING_LEGEN9</li>
 <li>⚡ Fun fact <strong>I don't have patience so I complete my work ASAP!!</strong> 💘</li>
 </ul>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">😎 Connect with me</h2><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 😎 Connect with me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto">
-  <a href="https://yashdeore.com" rel="nofollow">
+ <!-- <a href="https://yashdeore.com" rel="nofollow">
     <img alt="Static Badge" src="https://img.shields.io/badge/yashdeore.xyz-8A3BFF?style=flat&logoColor=green&link=www.yashdeore.xyz" x="500" y="175" textLength="597.5" font-size="100" width="103.75" height="28" >
-  </a>
+  </a>-->
 <a href="https://twitter.com/yashdeored" rel="nofollow"><img src="https://camo.githubusercontent.com/e97449103b99db365dca0ff65af4a8b068a831136dc0a156239a71dff4223dba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://instagram.com/yashdeored" rel="nofollow"><img src="https://camo.githubusercontent.com/f41da31bf426102ea1df9c083e9a316abd3af1ffb908fd8c9bd7be651d4d4541/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://linkedin.com/in/yashdeored" rel="nofollow"><img src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.facebook.com/yashdeored" rel="nofollow"><img src="https://camo.githubusercontent.com/be16f82f9d406cecc7b0c87f6192b6247e96983cfd38ae3fb4cfbb505eb4e263/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d2532333138373746322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/facebook-%231877F2.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+<!--<a href="https://www.facebook.com/yashdeored" rel="nofollow"><img src="https://camo.githubusercontent.com/be16f82f9d406cecc7b0c87f6192b6247e96983cfd38ae3fb4cfbb505eb4e263/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d2532333138373746322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/facebook-%231877F2.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a> -->
 <a href="https://steamcommunity.com/id/yashdeored" rel="nofollow"><img src="https://camo.githubusercontent.com/0267489ed4693e375d50524cef7178d17a7e4201993db5524e7928d888a808dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537465616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465" alt="Steam" data-canonical-src="https://img.shields.io/badge/Steam-%23000000.svg?&amp;style=for-the-badge&amp;logo=steam&amp;logoColor=white" style="max-width: 100%;"></a></p>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">👨‍💻 Technologies and Tools</h2><a id="user-content--technologies-and-tools" class="anchor" aria-label="Permalink: 👨‍💻 Technologies and Tools" href="#-technologies-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <table>
@@ -96,9 +96,9 @@ href="https://camo.githubusercontent.com/e855506bbeec9ece09563e53acc468cfc35edb1
 </blockquote>
 <p dir="auto"><strong>I'm an Early 🐤</strong></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>🌞 Morning                19536 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-🌆 Daytime                61020 commits       ████████████░░░░░░░░░░░░░   49.87 % 
-🌃 Evening                37086 commits       ████████░░░░░░░░░░░░░░░░░   30.31 % 
-🌙 Night                  4705 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+🌆 Daytime                56 commits       ████████████               49.87 % 
+🌃 Evening                20 commits       ████████                   30.31 % 
+🌙 Night                  10 commits       █                          03.85 % 
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
    <!-- <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="🌞 Morning                19536 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
 🌆 Daytime                61020 commits       ████████████░░░░░░░░░░░░░   49.87 % 
@@ -140,11 +140,11 @@ Sunday                   3963 commits        █░░░░░░░░░░�
   -->
 <p dir="auto">📊 <strong>This Week I Spent My Time On</strong></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>💬 Programming Languages: 
-AWS                34 mins             ███████████████░░░░░░░░░░   58.89 % 
-Terraform          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-CDK                6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Python             4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Markdown           3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+AWS                34 mins             ███████████████                 58.89 % 
+Terraform          7 mins              ███                             13.32 % 
+CDK                6 mins              ███                             11.63 % 
+Python             4 mins              ██                              07.13 % 
+Markdown           3 mins              ██                              06.09 % 
 
 🔥 Editors: 
 VS Code                  58 mins             █████████████████████████   100.00 % 
@@ -166,16 +166,16 @@ Mac                      58 mins             ███████████�
     </clipboard-copy>
   </div></div>
 <p dir="auto"><strong>I Mostly Code in Python</strong></p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   10.57 % 
-AWS                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Dockerfile               1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>
+AWS                      6 repos             ████                       06.20 % 
+Python                   2 repos             ██                         02.04 % 
+Dockerfile               1 repos             █                          01.35 % 
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+    <!--<clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
 Go                       17 repos            █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
 HCL                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % " tabindex="0" role="button">
+Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % " tabindex="0" role="button"> -->
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
